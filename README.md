@@ -1,6 +1,7 @@
 # customVector
 
 **Programos paleidimas**
+
 Kadangi yra tik vienas main.cpp failas, tai makefile nekuriau
 - `g++ -o run main.cpp`
 
